@@ -1,4 +1,4 @@
-### **Overview of the Spam Text Classification Process Using RNN**
+### **Spam Text Classification Process Using RNN**
 
 In this notebook, we will walk through the steps to classify text messages as either 'ham' (non-spam) or 'spam' using a Recurrent Neural Network (RNN). The dataset used is an SMS Spam Classification dataset, which contains labeled messages ('ham' and 'spam'). We will preprocess the data, build a model, train it, and finally use the trained model to predict whether new messages are spam or not.
 
